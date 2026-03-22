@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "SegcurGov",
+  title: "Securgob",
   description: "Plataforma de resolución de disputas descentralizada impulsada por gobernanza Web3. Mediación asistida por IA, votación cuadrática, reputación on-chain y evidencias en IPFS.",
   icons: {
     icon: "/favicon.svg",
