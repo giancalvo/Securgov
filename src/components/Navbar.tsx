@@ -21,7 +21,7 @@ export default function Navbar() {
       <div className="container mx-auto flex h-16 items-center flex-row justify-between px-4 md:px-6 max-w-6xl">
         <Link href="/" className="flex items-center gap-2 font-bold text-xl tracking-tight cursor-pointer">
           <Scale className="h-6 w-6 text-indigo-500" />
-          <span>Secu<span className="text-zinc-500 font-light">gob</span></span>
+          <span>Secur<span className="text-zinc-500 font-light">gob</span></span>
         </Link>
         <nav className="flex items-center gap-4">
           {isConnected ? (
